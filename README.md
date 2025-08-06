@@ -47,7 +47,8 @@ The dashboard includes:
 
 ## 📸 Dashboard Preview
 
-> Add a screenshot of your dashboard here (optional but recommended)
+<img width="1132" height="643" alt="image" src="https://github.com/user-attachments/assets/cfb8cc42-c127-47d9-ad2d-d1bba5cf371e" />
+
 
 ---
 
